@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felix12l8z
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Game and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me ...
